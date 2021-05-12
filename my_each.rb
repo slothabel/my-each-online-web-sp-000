@@ -7,6 +7,6 @@ def my_each(array)
     end
     array
   else
-    puts "nothing"
+     "nothing"
   end
 end
